@@ -3,4 +3,4 @@ A collection of personal notes and summaries on sentential logic, set theory, an
 
 ### Chapters
 
-* [Chapiter 1 :  Sentential Logic](Notes___How_to_Prove_It___Chapiter_1test.pdf)
+* [Chapter 1 :  Sentential Logic](Notes___How_to_Prove_It___Chapiter_1test.pdf)
